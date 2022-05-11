@@ -12,6 +12,7 @@ public class App
         System.out.println("Good Evening ...");
         System.out.println("Hv a wonderful evening");
         System.out.println("Learning Devops");
+        System.out.println("Learning Devops is fun......");
     }
     
     public int add(int a,int b) {
